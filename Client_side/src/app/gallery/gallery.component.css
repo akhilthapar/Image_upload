@@ -1,0 +1,24 @@
+.container {
+    position: relative;
+    padding: 5px;
+  }
+  .heading{ 
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    color: rgb(4, 131, 40);
+  }
+  .form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  .full-width {
+    width: 100%;
+  }
+  .full-width:nth-last-child(0) {
+    margin-bottom: 10px;
+  }
+  .button-row {
+    margin: 10px 0;
+  }
